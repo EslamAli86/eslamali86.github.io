@@ -15,13 +15,13 @@ papers:
     title: "Nature inspired algorithms for solving the community detection problem"
     authors: "Eslam Hussein, Ahmed Ibrahem Hafez, Aboul Ella Hassanien and Aly A Fahmy"
     booktitle: "Logic Journal of the IGPL"
-    doc-url: https://doi.org/10.1093/jigpal/jzx043
+    doc-url: https://academic.oup.com/jigpal/article/25/6/902/4565815
     venue: journal
   - layout: paper
     selected: yes
     paper-type: conference
     year: 2015
-    title: "The problem with probabilistic DAG automata for semantic graphs"
+    title: "A Discrete Bat Algorithm for the Community Detection Problem"
     authors: "Eslam Hussein, Ahmed Ibrahem Hafez, Aboul Ella Hassanien and Aly A Fahmy"
     booktitle: "10th International Conference Hybrid Artificial Intelligent Systems"
     doc-url: https://doi.org/10.1007/978-3-319-19644-2_16
