@@ -8,6 +8,7 @@ papers:
     booktitle: "Proceedings of the 2017 ACM International Conference on Management of Data (SIGMOD'17)"
     doc-url: https://dl.acm.org/doi/10.1145/3035918.3058742
     venue: conference
+    pages: "1647&ndash;1650"
   - layout: paper
     selected: yes
     paper-type: article
@@ -29,6 +30,7 @@ papers:
     booktitle: "10th International Conference Hybrid Artificial Intelligent Systems"
     doc-url: https://doi.org/10.1007/978-3-319-19644-2_16
     venue: conference
+    pages: "188&ndash;199"
   - layout: paper
     selected: yes
     paper-type: conference
@@ -47,3 +49,4 @@ papers:
     booktitle: "Intelligent Systems' 2014"
     doc-url: https://doi.org/10.1007/978-3-319-11310-4_44
     venue: conference
+    pages: "509&ndash;521"
