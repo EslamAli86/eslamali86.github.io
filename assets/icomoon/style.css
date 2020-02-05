@@ -89,7 +89,7 @@
 }
 .icon-google-scholar:before {
   content: "";
-  background: url("assets/icons/gs-icon1.jpg");
+  background: url("../icons/gs-icon1.jpg");
   height: 10px;
   width: 10px;
   display: block;
