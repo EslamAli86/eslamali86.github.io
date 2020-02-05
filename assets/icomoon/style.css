@@ -90,6 +90,9 @@
 .icon-google-scholar:before {
   content: "";
   background: url("assets/icons/gs-icon1.jpg");
+  height: 10px;
+  width: 10px;
+  display: block;
 }
 .icon-facebook:before {
   content: "\ea90";
