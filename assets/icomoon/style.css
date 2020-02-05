@@ -87,6 +87,10 @@
 .icon-google-drive:before {
   content: "\ea8f";
 }
+.icon-google-scholar:before {
+  content: "";
+  background: url("asseta/icons/gs-icon1.jpg");
+}
 .icon-facebook:before {
   content: "\ea90";
 }

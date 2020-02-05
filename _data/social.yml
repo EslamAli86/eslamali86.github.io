@@ -15,7 +15,7 @@ google:
   prepend: 'https://plus.google.com/'
 google-scholar:
   name: Google Scholar
-  icon: icon-google
+  icon: icon-google-scholar
   prepend: 'https://scholar.google.com/citations?hl=en&user='
 google-drive:
   name: Google Drive
