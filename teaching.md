@@ -3,7 +3,7 @@ layout: page
 title:  Teaching
 cover:  false
 menu:   true
-order:  2
+order:  3
 ---
 
 ## Courses at Virginia Tech

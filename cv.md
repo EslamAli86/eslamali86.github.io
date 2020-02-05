@@ -3,7 +3,7 @@ layout: page
 title:  CV
 cover:  false
 menu:   true
-order:  6
+order:  4
 ---
 
 {% include cv-list.html categories=site.data.cv.before-pubs %}
