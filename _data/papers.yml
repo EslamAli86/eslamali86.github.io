@@ -4,7 +4,7 @@ papers:
     selected: yes
     year: 2017
     title: "Graph Data Mining with Arabesque"
-    authors: "Eslam Hussein, Abdurrahman Ghanem, Vinicius Vitor dos Santos Dias, Carlos HC Teixeira, Ghadeer AbuOda, Marco Serafini, Georgos Siganos, Gianmarco De Francisci Morales, Ashraf Aboulnaga and Mohammed Zaki"
+    authors: "<b>Eslam Hussein</b>, Abdurrahman Ghanem, Vinicius Vitor dos Santos Dias, Carlos HC Teixeira, Ghadeer AbuOda, Marco Serafini, Georgos Siganos, Gianmarco De Francisci Morales, Ashraf Aboulnaga and Mohammed Zaki"
     booktitle: "Proceedings of the 2017 ACM International Conference on Management of Data (SIGMOD'17)"
     doc-url: https://dl.acm.org/doi/10.1145/3035918.3058742
     venue: conference
@@ -26,7 +26,7 @@ papers:
     paper-type: conference
     year: 2015
     title: "A Discrete Bat Algorithm for the Community Detection Problem"
-    authors: "Eslam Hussein, Ahmed Ibrahem Hafez, Aboul Ella Hassanien and Aly A Fahmy"
+    authors: "<b>Eslam Hussein</b>, Ahmed Ibrahem Hafez, Aboul Ella Hassanien and Aly A Fahmy"
     booktitle: "10th International Conference Hybrid Artificial Intelligent Systems"
     doc-url: https://doi.org/10.1007/978-3-319-19644-2_16
     venue: conference
@@ -35,18 +35,18 @@ papers:
     selected: yes
     paper-type: conference
     year: 2015
-    title: "Blog Clustering with Committee Approach"
-    authors: "Fatma H Ismail, Eslam Hussein, Aboul Ella Hassanien and Tai-Hoon Kim"
-    booktitle: "Fourth International Conference on Information Science and Industrial Applications (ISI)"
-    doc-url: http://doi.ieeecomputersociety.org/10.1109/ISI.2015.13
-    venue: conference
-  - layout: paper
-    selected: yes
-    paper-type: conference
-    year: 2015
     title: "Community detection algorithm based on artificial fish swarm optimization"
-    authors: "Eslam Hussein, Ahmed Ibrahem Hafez, Aboul Ella Hassanien and Aly A Fahmy"
+    authors: "<b>Eslam Hussein/<b>, Ahmed Ibrahem Hafez, Aboul Ella Hassanien and Aly A Fahmy"
     booktitle: "Intelligent Systems' 2014"
     doc-url: https://doi.org/10.1007/978-3-319-11310-4_44
     venue: conference
     pages: "509&ndash;521"
+  - layout: paper
+    selected: yes
+    paper-type: conference
+    year: 2015
+    title: "Blog Clustering with Committee Approach"
+    authors: "Fatma H Ismail, <b>Eslam Hussein</b>, Aboul Ella Hassanien and Tai-Hoon Kim"
+    booktitle: "Fourth International Conference on Information Science and Industrial Applications (ISI)"
+    doc-url: http://doi.ieeecomputersociety.org/10.1109/ISI.2015.13
+    venue: conference
