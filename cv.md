@@ -6,7 +6,6 @@ menu:   true
 order:  4
 ---
 
-```
+
 <embed src="https://eslamali86.github.io/pdfs/resume.pdf" type="application/pdf" />
-```
 
