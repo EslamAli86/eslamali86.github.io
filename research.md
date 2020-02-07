@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects
+title: Research
 cover: false
 menu: true
 order: 2
