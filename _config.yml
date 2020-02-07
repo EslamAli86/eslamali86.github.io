@@ -24,14 +24,14 @@ title:                 Eslam Hussein
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Eslam Hussein personal website
+  Eslam Hussein
 
 # A shorter description for the sidebar.
 tagline:               >
   Virginia Tech
 
 # A list of keywords for your blog.
-keywords:              [Eslam Hussein, YouTube, Misinformation, Audit, Video Search Platforms]
+keywords:              [Measuring Misinformation in Video Search Platforms an audit study on YouTube, Eslam Hussein, YouTube, Misinformation, Audit, Video Search Platforms, Amazon, Measuring]
 
 # Used by jekyll-seo-tag.
 logo:                  /assets/img/me.jpg
