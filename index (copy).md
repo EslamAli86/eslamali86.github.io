@@ -4,69 +4,9 @@ title: Eslam Hussein
 cover: false
 ---
 
-Hi, I am Eslam Hussein. I am a PhD student in the department of Computer Science at Virginia Tech. My research interests are in the broad areas of social computing, natural language processing and machine learning. I design experiments and technology to explore the  in which ranking algorithms influence the attitudes, beliefs, and behaviors of individuals and groups. I worked with Robert Epstein to discover the search engine manipulation effect (SEME), conduct research in several psychology-related fields, and build a nonprofit, the American Institute for Behavioral Research and Technology in San Diego, CA. In 2016 I became a student again in the world's first Network Science PhD program at Northeastern University in Boston, MA. Currently, I work with Christo Wilson and David Lazer on reverse engineering ranking algorithms - such as those used by search engines and online marketplaces - and conducting controlled behavioral and computational experiments to analyze their social impact.
+<p align="justify">Hi, my name is Eslam Hussein. I am a PhD student at the department of Computer Science at Virginia Tech. My advisor is professor <a href="https://www.linkedin.com/in/eldardiry/">Hoda Eldardiry</a>. My research interests are in the broad areas of social computing, natural language processing and machine learning.</p>
+### Research Highlight
 
-
-
-I develop computational models of natural language learning, 
-understanding and generation in people and machines, and my research 
-focuses on basic scientific problems related to these models. I am 
-especially interested in modeling the rich diversity of linguistic
-phenomena across the world’s languages. 
-
-I am a [Reader](https://en.wikipedia.org/wiki/Reader_(academic_rank))
-in the [Institute for Language, Cognition, and Computation](http://web.inf.ed.ac.uk/ilcc)
-in the [School of Informatics](http://web.inf.ed.ac.uk/)
-at the [University of Edinburgh](https://www.ed.ac.uk/). 
-[My research group](collaborators) is part of the larger 
-[Edinburgh natural language processing group](http://groups.inf.ed.ac.uk/edinburghnlp/)
-and we collaborate with many people in Edinburgh and more widely. 
-I am also the co-director of the 
-[Centre for Doctoral Training in Natural Language Processing](https://edinburghnlp.inf.ed.ac.uk/cdt/).
-
-
-## Recent News
-* In 2019, five of my PhD students successfully defended their theses:
-  - [Sameer Bansal](https://0xsameer.github.io/), whose thesis was on 
-    Low-Resource Speech Translation.
-  - [Arabella Jane Sinclair](https://staff.fnwi.uva.nl/a.j.sinclair/),
-    whose thesis was on Modelling Speaker Adaptation in Second 
-    Language Learner Dialogue. 
-    She is now a postdoctoral researcher at the University of Amsterdam.
-  - [Clara Vania](https://claravania.github.io/), whose thesis was 
-    On Understanding Character-level Models for Representing Morphology.
-    She is now a postdoctoral researcher at New York University.
-  - [Nikolay Bogoychev](https://nbogoychev.com/),
-    whose [thesis](https://www.era.lib.ed.ac.uk/handle/1842/35886) 
-    was on Fast Machine Translation on Parallel and Massively Parallel 
-    Hardware. 
-    He is now a postdoctoral researcher at the University of Edinburgh.
-  - [Sorcha Gilroy](https://uk.linkedin.com/in/sorcha-gilroy-a6105693), whose 
-    [thesis](https://www.era.lib.ed.ac.uk/handle/1842/35606) was on 
-    Probabilistic Graph Formalisms for Meaning Representations. 
-    She is now a data scientist at Peak.ai.
-
-
-
-* In September 2019, the 
-[Centre for Doctoral Training in Natural Language Processing](https://edin.ac/cdt-in-nlp)
-[welcomed its first students](https://twitter.com/EdinburghNLP/status/1173630819652579338)
-The centre, directed by my colleague [Mirella Lapata](http://homepages.inf.ed.ac.uk/mlap/),
-is a collaboration between informatics, linguistics, psychology, and design.
-It offers an innovative new PhD programme that integrates research and 
-teaching across these disciplines, and is supported in part by a 
-multi-million pound [training grant from the UK government](https://www.ukri.org/research/themes-and-programmes/ukri-cdts-in-artificial-intelligence/). I am 
-the co-director. 
-
-## Recent Research Highlights
-
-<ul>
-{% for paper in site.data.papers.papers %}
-  {% if paper.selected %}
-  <li>
-  {% include paper.html paper=paper %}
-  </li>
-  {% endif %}
-{% endfor %}
-</ul>
-
+<p align="justify">Search engines are the primary gateways of information. Despite their critical role in selecting,ranking, and recommending what information is considered most relevant, they do not take into account whether such information is credible or not. There is a growing concern that online platforms whose recommendation systems and search engines are integral components of their eco systems - such as YouTube and social media platforms - have been promoting and recommending misinformative content for certain search topics. In my study, I audit those systems to verify those claims. My audit experiments investigate whether personalization (based on age, gender, geolocation, or user’ actions) contributes in amplifying misinformation.</p>
+### Experience
+<p align="justify">Before I joined Virginia Tech, I worked as a research associate at <a href="https://www.hbku.edu.qa/en/staff/eslam-ali-hassan-hussein">Qatar Compuing Reseach Institute</a>, where I worked on graph analytics and search problems, and I published a demo paper at <a href="https://sigmod.org/sigmod-awards/sigmod-best-demonstration-award/">SIGMOD'17</a> (<i>honorable mention</i>). Before I join QCRI, I worked as an assistant lecturer for eight years at Cairo University where I obtained my master's degree in Computer Science. Working as an assistant lecturer contributed substantially in developing my teaching skills and broadening my knowledge in Computer Science. While working on my master's degree, I successfully published two conference papers and one journal paper. In parallel with my work at Cairo university, I also worked as a software engineer in multiple companies in Cairo, which helped in sharpening my software engineering skills and knowledge.</p>
