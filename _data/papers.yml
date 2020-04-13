@@ -2,6 +2,18 @@ papers:
   - layout: paper
     paper-type: inproceedings
     selected: yes
+    year: 2020
+    title: "Measuring Misinformation in Video Search Platforms: An Audit Study on YouTube"
+    authors: "<b>Eslam Hussein</b>, Prerna Juneja, Tanushree Mitra"
+    booktitle: "Proceedings of ACM Human Computer Interaction (CSCW'20)"
+    doc-url: https://dl.acm.org/doi/10.1145/
+    venue: conference
+    volume: 37
+    number: 4
+
+  - layout: paper
+    paper-type: inproceedings
+    selected: yes
     year: 2017
     title: "Graph Data Mining with Arabesque"
     authors: "<b>Eslam Hussein</b>, Abdurrahman Ghanem, Vinicius Vitor dos Santos Dias, Carlos HC Teixeira, Ghadeer AbuOda, Marco Serafini, Georgos Siganos, Gianmarco De Francisci Morales, Ashraf Aboulnaga and Mohammed Zaki"

@@ -4,7 +4,7 @@ title: Eslam Hussein
 cover: false
 ---
 
-<p align="justify">Hi, my name is Eslam Hussein. I am a PhD student at the department of Computer Science at Virginia Tech. My advisor is professor <a href="https://www.linkedin.com/in/eldardiry/">Hoda Eldardiry</a>. My research interests are in the broad areas of social computing, natural language processing and machine learning.</p>
+<p align="justify">Hi, my name is Eslam Hussein. I am a PhD student at the department of Computer Science at Virginia Tech. My advisor is professor <a href="http://people.cs.vt.edu/hdardiry/">Hoda Eldardiry</a>. My research interests are in the broad areas of social computing, natural language processing and machine learning.</p>
 <!---
 ### Research Highlight
 
