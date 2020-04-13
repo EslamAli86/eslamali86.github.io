@@ -26,7 +26,7 @@ papers:
     selected: yes
     paper-type: article
     year: 2017
-    title: "Nature inspired algorithms for solving the community detection problem"
+    title: "Nature Inspired Algorithms for Solving the Community Detection Problem"
     authors: "<b>Eslam Hussein</b>, Ahmed Ibrahem Hafez, Aboul Ella Hassanien and Aly A Fahmy"
     journal: "Logic Journal of the IGPL"
     doc-url: https://academic.oup.com/jigpal/article/25/6/902/4565815
@@ -50,7 +50,7 @@ papers:
     selected: yes
     paper-type: inproceedings
     year: 2015
-    title: "Community detection algorithm based on artificial fish swarm optimization"
+    title: "Community Detection Algorithm based on Artificial Fish Swarm Optimization"
     authors: "<b>Eslam Hussein</b>, Ahmed Ibrahem Hafez, Aboul Ella Hassanien and Aly A Fahmy"
     booktitle: "Intelligent Systems'2014"
     doc-url: https://doi.org/10.1007/978-3-319-11310-4_44
