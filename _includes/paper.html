@@ -4,14 +4,14 @@
 {% case include.paper.paper-type %}
   {% when "inproceedings" %}
     In <i>{{ include.paper.booktitle }}</i>.
-      {% if include.paper.volume %}{{ include.paper.volume }}{% endif %}{% if include.paper.number %}({{ include.paper.number }}){% endif %}
-      {% if include.paper.article%}: Article {{ include.paper.article}},{% endif %}
-      {% if include.paper.pages %}: pages {{ include.paper.pages }}{% endif %}.
+      {% if include.paper.volume %} Vol. {{ include.paper.volume }}{% endif %}{% if include.paper.number %} ({{ include.paper.number }}){% endif %}
+      {% if include.paper.article%} Article {{ include.paper.article}}.{% endif %}
+      {% if include.paper.pages %} Pages {{ include.paper.pages }}.{% endif %}.
   {% when "article" %}
     In <i>{{ include.paper.journal }}</i>,
       {% if include.paper.volume %}{{ include.paper.volume }}{% endif %}{% if include.paper.number %}({{ include.paper.number }}){% endif %}
-      {% if include.paper.article%}: Article {{ include.paper.article}},{% endif %}
-      {% if include.paper.pages %}: pages {{ include.paper.pages }}{% endif %}.
+      {% if include.paper.article%} Article {{ include.paper.article}}.{% endif %}
+      {% if include.paper.pages %} Pages {{ include.paper.pages }}.{% endif %}.
   {% when "dissertation" %}
     Dissertation, {{ include.paper.institution }}.
 {% endcase %} 
@@ -21,9 +21,13 @@
   {{ include.paper.note }} 
 {% endif %}
 
+
+<!-- links to paper/datasets/posters -->
+{% if include.paper.paper-loc %}<a href="{{ include.paper.paper-loc }}"> Paper </a>{{% endif %}
+
+<!--
 <ul>
 {% if include.paper.description %}<li style="list-style-type:square"><p align="justify"><b>Description:</b> {{ include.paper.description }}</p></li>{% endif %} 
 {% if include.paper.abstract %}<li style="list-style-type:square"><p align="justify"><b>Abstract:</b> {{ include.paper.abstract }}</p></li>{% endif %} 
 </ul>
-
-
+-->
