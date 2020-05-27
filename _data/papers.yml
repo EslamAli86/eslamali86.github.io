@@ -6,10 +6,12 @@ papers:
     title: "Measuring Misinformation in Video Search Platforms: An Audit Study on YouTube"
     authors: "<b>Eslam Hussein</b>, Prerna Juneja, Tanushree Mitra"
     booktitle: "Proceedings of ACM Human Computer Interaction (CSCW'20)"
-    doc-url: https://dl.acm.org/doi/10.1145/
+    doc-url: https://doi.org/10.1145/3392854
     venue: conference
-    volume: 37
-    number: 4
+    volume: 4
+    number: 38
+    abstract: "Search engines are the primary gateways of information. Yet, they do not take into account the credibilityof search results. There is a growing concern that YouTube, the second largest search engine and the mostpopular video-sharing platform, has been promoting and recommending misinformative content for certainsearch topics. In this study, we audit YouTube to verify those claims. Our audit experiments investigatewhether personalization (based on age, gender, geolocation, or watch history) contributes to amplifyingmisinformation. After shortlisting five popular topics known to contain misinformative content and compilingassociated search queries representing them, we conduct two sets of audits—Search-andWatch-misinformativeaudits. Our audits resulted in a dataset of more than 56K videos compiled to link stance (whether promotingmisinformation or not) with the personalization attribute audited. Our videos correspond to three majorYouTube components:search results,Up-Next, andTop 5recommendations. We find that demographics, such as,gender, age, and geolocation do not have a significant effect on amplifying misinformation in returned searchresults for users with brand new accounts. On the other hand, once a user develops a watch history, theseattributes do affect the extent of misinformation recommended to them. Further analyses reveal a filter bubbleeffect, both in theTop 5andUp-Nextrecommendations for all topics, exceptvaccine controversies; for thesetopics, watching videos that promote misinformation leads to more misinformative video recommendations.In conclusion, YouTube still has a long way to go to mitigate misinformation on its platform."
+    description: "We audit YouTube to investigate whether personalization (based on age, gender, geolocation, or watch history) contributes to amplifying misinformation. While demographics do not have a significant effect, once a user develops a watch history, it affects the extent of misinformation recommended to them."
 
   - layout: paper
     paper-type: inproceedings
