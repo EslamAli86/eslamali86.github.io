@@ -14,6 +14,8 @@
       {% if include.paper.pages %} Pages {{ include.paper.pages }}.{% endif %}.
   {% when "dissertation" %}
     Dissertation, {{ include.paper.institution }}.
+  {% when "arXiv" %}
+    At <i>{{ include.paper.booktitle }}</i>.
 {% endcase %} 
 
 {{ include.paper.year }}. 
@@ -21,13 +23,11 @@
   {{ include.paper.note }} 
 {% endif %}
 
-
 <!-- links to paper/datasets/posters -->
-{% if include.paper.paper-loc %}<a href="{{ include.paper.paper-loc }}" target="_blank" class="btn btn-success"> <i class="fa fa-file-pdf-o"></i>Paper </a>{{% endif %}
+{% if include.paper.paper-loc %}<a href="{{ include.paper.paper-loc }}" target="_blank" class="btn btn-success"> <i class="fa fa-file-pdf-o"></i>Paper </a>{% endif %}
 
-<!--
 <ul>
-{% if include.paper.description %}<li style="list-style-type:square"><p align="justify"><b>Description:</b> {{ include.paper.description }}</p></li>{% endif %} 
-{% if include.paper.abstract %}<li style="list-style-type:square"><p align="justify"><b>Abstract:</b> {{ include.paper.abstract }}</p></li>{% endif %} 
+{% if include.paper.description %}
+<li style="list-style-type:square"><p align="justify"><b>Description:</b> {{ include.paper.description }}</p></li>
+{% endif %}
 </ul>
--->
