@@ -30,6 +30,20 @@ papers:
     description: "We audit YouTube to investigate whether personalization (based on age, gender, geolocation, or watch history) contributes to amplifying misinformation. While demographics do not have a significant effect, once a user develops a watch history, it affects the extent of misinformation recommended to them."
 
   - layout: paper
+    paper-type: poster
+    selected: yes
+    year: April 2019
+    title: "Auditing YouTube for Misinformation"
+    authors: "<b>Eslam Hussein</b>, Viral Pasad, Tanushree Mitra"
+    booktitle: "Fourth Annual Virginia Tech Workshop on the Future of Human-Computer Interaction: Algorithms that make you think"
+    doc-url: https://wordpress.cs.vt.edu/algorithmsworkshop/graduate-student-posters/
+    venue: workshop
+    
+    paper-loc: https://eslamali86.github.io/pdfs/posters/Algorithms_workshop_Eslam_Hussin.pdf
+    
+    description: In this work, we audit YouTube recommendation system for recommending and spreading misinformation such as conspiracy theories, fake news, rumors and falsified information. In our work we experiment YouTube from different angles and study its recommendation of misinformation from different perspectives (demographically/geographically).
+    
+  - layout: paper
     paper-type: inproceedings
     selected: yes
     year: 2017

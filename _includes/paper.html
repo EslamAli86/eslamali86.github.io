@@ -16,6 +16,8 @@
     Dissertation, {{ include.paper.institution }}.
   {% when "arXiv" %}
     At <i>{{ include.paper.booktitle }}</i>.
+  {% when "poster" %}
+    Poster accepted at <i>{{ include.paper.booktitle }}</i>.
 {% endcase %} 
 
 {{ include.paper.year }}. 
@@ -23,8 +25,22 @@
   {{ include.paper.note }} 
 {% endif %}
 
+
+{% case include.paper.paper-type %}
+  {% when "inproceedings" %}
+    {% if include.paper.paper-loc %}<a href="{{ include.paper.paper-loc }}" target="_blank" class="btn btn-success"> <i class="fa fa-file-pdf-o"></i>Paper</a>{% endif %}
+  {% when "article" %}
+    {% if include.paper.paper-loc %}<a href="{{ include.paper.paper-loc }}" target="_blank" class="btn btn-success"> <i class="fa fa-file-pdf-o"></i>Paper</a>{% endif %}
+  {% when "dissertation" %}
+    {% if include.paper.paper-loc %}<a href="{{ include.paper.paper-loc }}" target="_blank" class="btn btn-success"> <i class="fa fa-file-pdf-o"></i>Dissertation</a>{% endif %}
+  {% when "arXiv" %}
+    {% if include.paper.paper-loc %}<a href="{{ include.paper.paper-loc }}" target="_blank" class="btn btn-success"> <i class="fa fa-file-pdf-o"></i>Paper</a>{% endif %}
+  {% when "poster" %}
+    {% if include.paper.paper-loc %}<a href="{{ include.paper.paper-loc }}" target="_blank" class="btn btn-success"> <i class="fa fa-file-pdf-o"></i>Poster</a>{% endif %}
+{% endcase %} 
+
 <!-- links to paper/datasets/posters -->
-{% if include.paper.paper-loc %}<a href="{{ include.paper.paper-loc }}" target="_blank" class="btn btn-success"> <i class="fa fa-file-pdf-o"></i>Paper </a>{% endif %}
+<!--{% if include.paper.paper-loc %}<a href="{{ include.paper.paper-loc }}" target="_blank" class="btn btn-success"> <i class="fa fa-file-pdf-o"></i>Paper </a>{% endif %}-->
 
 <ul>
 {% if include.paper.description %}
