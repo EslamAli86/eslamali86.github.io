@@ -13,7 +13,7 @@ I worked as a graduate teaching assistant (GTA), and I was responsible for assis
 
 ## Courses at Cairo University
 
-I worked as a teaching assistant (TA), and I was responsible for preparing, teaching and marking assignments/exams of the following courses:
+I worked as a teaching assistant (TA), and I was responsible for preparing, teaching, and marking assignments/exams of the following courses:
 
 * Fall 2007:		
   * CS462: Natural Languages Processing
