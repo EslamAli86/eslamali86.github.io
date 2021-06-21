@@ -1,6 +1,6 @@
 # NOTICE
 
-Copyright (c) 2018 Adam Lopez <https://alopez.github.io/>
+Copyright (c) 2020 Eslam Hussein <https://eslam-hussein.me/>
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
