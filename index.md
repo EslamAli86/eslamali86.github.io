@@ -4,7 +4,7 @@ title: Eslam Hussein
 cover: false
 ---
 
-<p align="justify">Hi, my name is Eslam Hussein. I am a PhD candidate at the Department of Computer Science at Virginia Tech. My research interests are in the broad areas of multimodal machine  learning, natural language processing, and social computing.</p>
+<p align="justify">Hi, my name is Eslam Hussein. I am a PhD candidate at the Department of Computer Science at Virginia Tech. My research interests are in the broad areas of multimodal machine  learning, natural language processing, and social computing. I work under the supervision of Professor Chris Thomas on video entailment to detect out-of-context videos using multimodal machine learning and graph neural networks.</p>
 
 
 ### Experience
