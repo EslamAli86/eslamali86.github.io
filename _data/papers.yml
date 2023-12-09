@@ -1,6 +1,20 @@
 papers:
 
   - layout: paper
+    paper-type: inproceedings
+    selected: yes
+    year: October 2023
+    
+    title: "Narrative Style and the Spread of Health Misinformation on Twitter"
+    authors: "Achyutarama Ganti, <b>Eslam Hussein</b>, Steven Wilson, Zexin Ma, Xinyan Zhao"
+    booktitle: "In Findings of the Association for Computational Linguistics: EMNLP 2023"
+    doc-url: https://eslamali86.github.io/pdfs/papers/EMNLP2023_NarrativeMisinfoTwitter.pdf
+    venue: conference
+    paper-loc: https://eslamali86.github.io/pdfs/papers/EMNLP2023_NarrativeMisinfoTwitter.pdf
+    abstract: "Using a narrative style is an effective way to communicate health information both on and off social media. Given the amount of misinformation being spread online and its potential negative effects, it is crucial to investigate the interplay between narrative communication style and misinformative health content on user engagement on social media platforms. To explore this in the context of Twitter, we start with previously annotated health misinformation tweets (n ≈15,000) and annotate a subset of the data (n=3,000) for the presence of narrative style. We then use these manually assigned labels to train text classifiers, experimenting with supervised fine-tuning and in-context learning for automatic narrative detection. We use our best model to label remaining portion of the dataset, then statistically analyze the relationship between narrative style, misinformation, and user-level features on engagement, finding that narrative use is connected to increased tweet engagement and can, in some cases, lead to increased engagement with misinformation. Finally, we analyze the general categories of language used in narratives and health misinformation in our dataset."
+ #   description: "We examine the narrative styles used to communicate COVID-19 health information on Twitter. We annotate ~15k informed and misinformed tweets with respect to wether communicating through narrative styles or not."
+
+  - layout: paper
     paper-type: arXiv
     selected: yes
     year: September 2020
