@@ -13,6 +13,7 @@ cover: false
 ### News
 <ul>
 <li style="list-style-type:square">October 2023: a new paper accepted to EMNLP'23 Findings: <i>Narrative Style and the Spread of Health Misinformation on Twitter</i> [<a href="https://eslamali86.github.io/pdfs/papers/EMNLP2023_NarrativeMisinfoTwitter.pdf" style="color:blue">Paper</a>].</li>
+<li style="list-style-type:square">2021: Honored with Special Recognition for Outstanding Reviews, ACM CSCW 2021.</li>
 <li style="list-style-type:square">September 2020: a new audit study published at arXiv: <i>Investigating Misinformation in Online Marketplaces: An Audit Study on Amazon</i> [<a href="https://arxiv.org/abs/2009.12468" style="color:blue">Paper</a>].</li>
 <li style="list-style-type:square">March 2020: paper accepted at CSCW 2020: <i>Measuring Misinformation in Video Search Platforms: An Audit Study on YouTube</i> [<a href="https://doi.org/10.1145/3392854" style="color:blue">Paper</a>].</li>
 <li style="list-style-type:square">April 2019: poster accepted about <i>Auditing YouTube for Misinformation</i> at the <a href="https://wordpress.cs.vt.edu/algorithmsworkshop/graduate-student-posters/" style="color:blue">Fourth Annual Virginia Tech Workshop on the Future of Human-Computer Interaction:: Algorithms that make you think</a>, [<a href="https://eslamali86.github.io/pdfs/posters/Algorithms_workshop_Eslam_Hussin.pdf" style="color:blue">Poster</a>].</li>
