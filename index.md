@@ -8,7 +8,21 @@ cover: false
 
 
 ### Experience
-<p align="justify">Before I joined Virginia Tech, I worked as a research associate at <a href="https://www.hbku.edu.qa/en/staff/eslam-ali-hassan-hussein">Qatar Computing Research Institute</a>, where I worked on graph analytics and search problems, and I published a demo paper at <a href="https://sigmod.org/sigmod-awards/sigmod-best-demonstration-award/">SIGMOD'17</a> (<b><i>honorable mention</i></b>). Before I join QCRI, I worked as an assistant lecturer for eight years at Cairo University where I obtained my master's degree in Computer Science. Working as an assistant lecturer contributed substantially to developing my teaching skills and broadening my knowledge in Computer Science. While working on my master's degree, I successfully published two conference papers and one journal paper. In parallel with my work at Cairo University, I also worked as a software engineer in multiple companies in Cairo, which helped in sharpening my software engineering skills and knowledge.</p>
+<p align="justify">Before I joined Virginia Tech, I worked as a research associate at <a href="https://www.hbku.edu.qa/en/staff/eslam-ali-hassan-hussein">Qatar Computing Research Institute</a>, where I worked on graph analytics and search problems, and I published a demo paper at <a href="https://sigmod.org/sigmod-awards/sigmod-best-demonstration-award/">SIGMOD'17</a> (<b><i>honorable mention</i></b>). Before I joined QCRI, I worked as an assistant lecturer for eight years at Cairo University, where I obtained my master's degree in Computer Science. Working as an assistant lecturer contributed substantially to developing my teaching skills and broadening my knowledge in Computer Science. While working on my master's degree, I successfully published two conference papers and one journal paper. In parallel with my work at Cairo University, I also worked as a software engineer in multiple companies in Cairo, which helped in sharpening my software engineering skills and knowledge.</p>
+
+### Media Coverage
+<p align="justify">
+The <a href="https://dl.acm.org/doi/10.1145/3392854" style="color:blue"><b>YouTube audit study</b></a> on algorithmic recommendations has received international media attention for its impact on public discourse and platform accountability. The study was featured in:
+</p>
+
+<ul>
+  <li style="list-style-type:square">
+    <b>November 2020:</b> <i>New study finds YouTube is now suppressing anti-vaccine videos</i>. <a href="https://thehill.com/changing-america/enrichment/arts-culture/527359-new-study-finds-youtube-is-now-suppressing-anti/" style="color:blue"><b>The Hill</b></a>
+  </li>
+  <li style="list-style-type:square">
+    <b>November 2020:</b> <i>YouTube’s algorithm is steering viewers away from anti-vaccine videos</i>. <a href="https://www.businessinsider.com/study-youtube-anti-vax-conspiracy-theories-2020-11" style="color:blue"><b>Business Insider</b></a>
+  </li>
+</ul>
 
 ### News
 <ul>
