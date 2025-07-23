@@ -8,7 +8,10 @@ cover: false
 
 
 ### Experience
-<p align="justify">Before I joined Virginia Tech, I worked as a research associate at <a href="https://www.hbku.edu.qa/en/staff/eslam-ali-hassan-hussein">Qatar Computing Research Institute</a>, where I worked on graph analytics and search problems, and I published a demo paper at <a href="https://sigmod.org/sigmod-awards/sigmod-best-demonstration-award/">SIGMOD'17</a> (<b><i>honorable mention</i></b>). Before I joined QCRI, I worked as an assistant lecturer for eight years at Cairo University, where I obtained my master's degree in Computer Science. Working as an assistant lecturer contributed substantially to developing my teaching skills and broadening my knowledge in Computer Science. While working on my master's degree, I successfully published two conference papers and one journal paper. In parallel with my work at Cairo University, I also worked as a software engineer in multiple companies in Cairo, which helped in sharpening my software engineering skills and knowledge.</p>
+<p align="justify">
+Before joining Virginia Tech, I was a research associate at the <a href="https://www.hbku.edu.qa/en/staff/eslam-ali-hassan-hussein">Qatar Computing Research Institute (QCRI)</a>, where I worked on graph analytics and search-related problems. During my time at QCRI, I co-authored a demo paper that received an <b><i>honorable mention</i></b> at <a href="https://sigmod.org/sigmod-awards/sigmod-best-demonstration-award/">SIGMOD'17</a>. Prior to that, I served for eight years as an assistant lecturer at Cairo University, where I also earned my master’s degree in Computer Science. This academic role significantly strengthened my teaching abilities and deepened my foundational knowledge in the field. While pursuing my master’s, I published two conference papers and one journal article. Concurrently, I worked as a software engineer in several Cairo-based companies, which enhanced my practical experience and software engineering skills.
+</p>
+
 
 ### Media Coverage
 <p align="justify">
@@ -27,7 +30,9 @@ The <a href="https://dl.acm.org/doi/10.1145/3392854" style="color:blue"><b>YouTu
 ### News
 <ul>
 <li style="list-style-type:square">October 2023: a new paper accepted to EMNLP'23 Findings: <i>Narrative Style and the Spread of Health Misinformation on Twitter</i> [<a href="https://eslamali86.github.io/pdfs/papers/EMNLP2023_NarrativeMisinfoTwitter.pdf" style="color:blue">Paper</a>].</li>
-<li style="list-style-type:square">2021: Honored with Special Recognition for Outstanding Reviews, ACM CSCW 2021.</li>
+<li style="list-style-type:square">
+2021: Honored with <i>Special Recognition for Outstanding Reviews</i>, ACM CSCW 2021.
+</li>
 <li style="list-style-type:square">September 2020: a new audit study published at arXiv: <i>Investigating Misinformation in Online Marketplaces: An Audit Study on Amazon</i> [<a href="https://arxiv.org/abs/2009.12468" style="color:blue">Paper</a>].</li>
 <li style="list-style-type:square">March 2020: paper accepted at CSCW 2020: <i>Measuring Misinformation in Video Search Platforms: An Audit Study on YouTube</i> [<a href="https://doi.org/10.1145/3392854" style="color:blue">Paper</a>].</li>
 <li style="list-style-type:square">April 2019: poster accepted about <i>Auditing YouTube for Misinformation</i> at the <a href="https://wordpress.cs.vt.edu/algorithmsworkshop/graduate-student-posters/" style="color:blue">Fourth Annual Virginia Tech Workshop on the Future of Human-Computer Interaction:: Algorithms that make you think</a>, [<a href="https://eslamali86.github.io/pdfs/posters/Algorithms_workshop_Eslam_Hussin.pdf" style="color:blue">Poster</a>].</li>
