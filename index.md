@@ -29,6 +29,9 @@ The <a href="https://dl.acm.org/doi/10.1145/3392854" style="color:blue"><b>YouTu
 
 ### News
 <ul>
+  <li style="list-style-type:square">
+May 2025: Successfully defended my Ph.D. preliminary exam at Virginia Tech.
+</li>
 <li style="list-style-type:square">October 2023: a new paper accepted to EMNLP'23 Findings: <i>Narrative Style and the Spread of Health Misinformation on Twitter</i> [<a href="https://eslamali86.github.io/pdfs/papers/EMNLP2023_NarrativeMisinfoTwitter.pdf" style="color:blue">Paper</a>].</li>
 <li style="list-style-type:square">
 2021: Honored with <i>Special Recognition for Outstanding Reviews</i>, ACM CSCW 2021.
